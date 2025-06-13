@@ -1,6 +1,6 @@
-index.html
+.index.html
 # Ignore the index.html file
-index.js
+.index.js
 # Ignore the index.js file
-style.css
-Assets/
+.style.css
+.Assets/
