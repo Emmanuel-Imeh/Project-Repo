@@ -7,6 +7,17 @@ This documentation details the steps taken to complete the project.
 - Web server setup
 - Deployment
 
+## Technologies Required
+
+- HTML5
+- CSS3 (with custom animations)
+- JavaScript (Vanilla)
+- SVG Graphics
+- [Nginx](https://www.nginx.com/) (for web server setup)
+- AWS EC2 (for deployment)
+- Git & GitHub (for version control and collaboration)
+- Visual Studio Code (as the primary code editor)
+
 **Getting started with the task.**  
 ## SERVER SETUP
 ### 1. Launch an AWS EC2 Instance 
@@ -78,16 +89,6 @@ sudo chmod -R 755 /var/www/html/
 - Restart Nginx (good practice after content changes, though often not strictly necessary for simple file changes in the default root): `sudo systemctl restart nginx`
 - Refresh your browser. You should now see your custom HTML page.
 
-**Configure Nginx for a Custom Domain (Virtual Host / Server Block)**c
-
-
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- SVG Graphics
-- [Nginx](https://www.nginx.com/) (for web server setup)
-- AWS EC2 (for deployment)
-
+### HOSTED PUBLIC IP ADDRESS AND IMAGE OF RENDERED PAGE.
+- [Hosted IP Address](http://34.240.4.106)  
+![Rendered Page in browser](./Asset/WebPage.png)
