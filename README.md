@@ -91,4 +91,4 @@ sudo chmod -R 755 /var/www/html/
 
 ### HOSTED PUBLIC IP ADDRESS AND IMAGE OF RENDERED PAGE.
 - [Hosted IP Address](http://34.240.4.106)  
-![Rendered Page in browser](./Asset/WebPage.png)
+![Rendered Page in browser](./WebPage.png)
