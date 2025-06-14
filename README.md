@@ -120,7 +120,6 @@ sudo chmod -R 755 /var/www/html/
 
 - Create an account with [https://noip.com](https://noip.com/)
 - Sign up and create a hostname on no-ip, the ip address should also be the public ec2 instance ip address.
--
 
 ## Secure with Let’s Encrypt SSL (Certbot) to configure https.
 
@@ -142,7 +141,7 @@ You need a domain name registered and pointing to your server's IP address.
 
 Certbot will guide you through obtaining certificates from Let's Encrypt and automatically update your web server's configuration to use them.
 
-### HOSTED PUBLIC IP ADDRESS AND IMAGE OF RENDERED PAGE.
+### HOSTED CUSTOM DOMAIN ADDRESS AND IMAGE OF RENDERED PAGE.
 
 - [Custom Domain](https://emmacloudnative.servehttp.com)  
   ![Rendered Page in browser](./WebPage.png)
