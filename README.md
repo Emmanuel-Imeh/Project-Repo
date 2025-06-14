@@ -143,5 +143,7 @@ Certbot will guide you through obtaining certificates from Let's Encrypt and aut
 
 ### HOSTED CUSTOM DOMAIN ADDRESS AND IMAGE OF RENDERED PAGE.
 
-- [Custom Domain](https://emmacloudnative.servehttp.com)  
-  ![Rendered Page in browser](./WebPage.png)
+- Custom Domain: [https://emmacloudnative.servehttp.com](https://emmacloudnative.servehttp.com) 
+
+- Rendered Page:
+  ![Rendered Page in browser](/landingPage.png)
